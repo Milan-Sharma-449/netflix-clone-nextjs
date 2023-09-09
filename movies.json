@@ -1,34 +1,91 @@
 [
    {
-      "title":"Big Buck Bunny",
-      "description":"Three rodents amuse themselves by harassing creatures of the forest. However, when they mess with a bunny, he decides to teach them a lesson.",
-      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "title":"",
+      "description":"Hailing from the coast of India, this new Controller Agent commands a mix of tide and torrent to shield allies and pummel opponents. Made in partnership with Lightfarm Studios.",
+      "videoUrl":"https://milansharma.me/new/movies/TURN%20THE%20TIDES%20-%20Harbor%20Agent%20Trailer%20__%20VALORANT.mkv",
       "thumbnailUrl":"https://upload.wikimedia.org/wikipedia/commons/7/70/Big.Buck.Bunny.-.Opening.Screen.png",
       "genre":"Comedy",
       "duration":"10 minutes"
    },
-   {
-      "title":"Sintel",
-      "description":"A lonely young woman, Sintel, helps and befriends a dragon, whom she calls Scales. But when he is kidnapped by an adult dragon, Sintel decides to embark on a dangerous quest to find her lost friend Scales.",
-      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-      "thumbnailUrl":"http://uhdtv.io/wp-content/uploads/2020/10/Sintel-3.jpg",
-      "genre":"Adventure",
-      "duration":"15 minutes"
-   },
-   {
-      "title":"Tears of Steel",
-      "description":"In an apocalyptic future, a group of soldiers and scientists takes refuge in Amsterdam to try to stop an army of robots that threatens the planet.",
-      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-      "thumbnailUrl":"https://mango.blender.org/wp-content/uploads/2013/05/01_thom_celia_bridge.jpg",
-      "genre":"Action",
-      "duration":"12 minutes"
-   },
-   {
-      "title":"Elephant's Dream",
-      "description":"Friends Proog and Emo journey inside the folds of a seemingly infinite Machine, exploring the dark and twisted complex of wires, gears, and cogs, until a moment of conflict negates all their assumptions.",
-      "videoUrl":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-      "thumbnailUrl":"https://download.blender.org/ED/cover.jpg",
-      "genre":"Sci-Fi",
-      "duration":"15 minutes"
-   }
 ]
+
+{"_id":{"$oid":"64fc0ee4aa00f6d20072172b"},
+"title":"New Agent Deadlock - Valorant",
+"description":"Norwegian operative Deadlock deploys an array of cutting-edge nanowire to secure the battlefield from even the most lethal assault. No one escapes her vigilant watch, nor survives.",
+"videoUrl":"https://milansharma.me/new/movies/UNMADE%20__%20Episode%207%20Cinematic%20-%20VALORANT.mkv",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/deadlock.png",
+"genre":"Valorant",
+"duration":"3 minutes"
+}
+
+{"_id":{"$oid":"64fc107faa00f6d20072172c"},
+"title":"Celebrating 11 years of Clash Of Clans",
+"description":"This year’s anniversary promises a bunch of exciting events and challenges to delight players. To kick things off, we’re in for a treat with a fantastic season theme throughout August.",
+"videoUrl":"https://milansharma.me/new/movies/Celebrating%2011%20Years%20of%20Clash%20of%20Clans!%20%F0%9F%8E%89.mp4",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/11yerascoc.png",
+"genre":"Clash Of Clans",
+"duration":"1.5 minutes"
+}
+
+{"_id":{"$oid":"64fc107faa00f6d20072172d"},
+"title":"Clash Is Raiding Chess! Clash of Clans Animation",
+"description":"Raids, counter-raids and lots of loot: that’s what fans of Chess.com, Clash of Clans and Clash Royale can look forward to in September as two giant gaming empires get together for a month of cross-platform battles.",
+"videoUrl":"https://milansharma.me/new/movies/Clash%20Is%20Raiding%20Chess!%20Clash%20of%20Clans%20Animation.mp4",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/chesscoc.png",
+"genre":"Clash Of Clans",
+"duration":"1.2 minutes"
+}
+
+{"_id":{"$oid":"64fc107faa00f6d20072172e"},
+"title":"10th Aniversary Clash Of Clans",
+"description":"Hey Chief, Clash of Clans is about turn ten and the celebrations will begin with a bang. That’s right, it’s hard to believe that Clash of Clans was released 10 years ago, and it seems like time has just flown by. Though, its not as popular as it used to be a few years ago, but its still one of the best strategy games ever made with over 130 million average monthly users. So yeah, it isn’t getting outdated anytime soon.",
+"videoUrl":"https://milansharma.me/new/movies/CLASHIVERSARY%20is%20Almost%20Here!%20RIP%20Barbarian-%20%F0%9F%99%8F.mp4",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/10th%20clasiversary.png",
+"genre":"Clash Of Clans",
+"duration":"1.5 minutes"
+}
+
+{"_id":{"$oid":"64fc107faa00f6d20072172f"},
+"title":"BGMI x Aston Martin",
+"description":"BGMI Finally collaborates with Aston Martin to launch its car in the game.",
+"videoUrl":"https://milansharma.me/new/movies/BGMI%20x%20Aston%20Martin%20-%20Available%20Now.mp4",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/aston%20martin.png",
+"genre":"BGMI",
+"duration":"1 minute"
+}
+
+{"_id":{"$oid":"64fc14a204d7e305f5083505"},
+"title":"New Map Sunset - Valorant",
+"description":"One of the most significant news drops is the minimap of Sunset. This reveals crucial information about the map layout and the key spots that can be expected to be played around by teams. The strength of specific Agents can also be gauged depending on the map's design.",
+"videoUrl":"https://milansharma.me/new/movies/SUNSET%20__%20Official%20Map%20Trailer%20-%20VALORANT.mkv",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/sunset.png",
+"genre":"Valorant",
+"duration":"5 minutes"
+}
+
+{"_id":{"$oid":"64fc14ea04d7e305f5083506"},
+"title":"Builder Base 2.0 - Clash Of Clans",
+"description":"Builder Base 2.0 - Clash Of Clans",
+"videoUrl":"https://milansharma.me/new/movies/Builder%20Base%202.0%20Is%20Here!%20Clash%20of%20Clans%20Official.mp4",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/builderbase2.0.png",
+"genre":"Clash Of Clans",
+"duration":"1.5 minutes"
+}
+
+{"_id":{"$oid":"64fc159804d7e305f5083507"},
+"title":"New Agent - Gekko",
+"description":"Gekko Agent - Valorant",
+"videoUrl":"https://milansharma.me/new/movies/GREATER%20THAN%20ONE%20__%20Gekko%20Agent%20Trailer%20-%20VALORANT.mkv",
+"thumbnailUrl":"https://milansharma.me/new/thumbnail/gekko-trailor.png",
+"genre":"Valorant",
+"duration":"3 minutes"
+}
+
+{"_id":{"$oid":"64fc107faa00f6d20072172j"},
+"title":"",
+"description":"",
+"videoUrl":"",
+"thumbnailUrl":"",
+"genre":"Valorant",
+"duration":"3 minutes"
+}
